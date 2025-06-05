@@ -1,6 +1,6 @@
 <h1 align="center">Vizualización de datos: Creando gráficos con bibliotecas de Python</h1>
 
-<p align="center"><strong><em>Programa de especialización de la formación ORACLE NEX EDUCATION en conjunto con ALURA LATAM</em></strong></p>
+<p align="center"><strong><em>Programa de especialización de la formación de Data Science por parte de ORACLE NEX EDUCATION en conjunto con ALURA LATAM</em></strong></p>
 
 Se aprenderá a crear gráficos y visualizaciones de datos utilizando varias bibliotecas populares de Python. 
 Primero, con Matplotlib, aprenderá a construir gráficos básicos como líneas, barras y gráficos de dispersión, explorando personalizaciones para que sus visualizaciones sean claras e informativas.
